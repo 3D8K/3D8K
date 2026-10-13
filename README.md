@@ -96,17 +96,6 @@ I'm most interested in frontend platform engineering, performance work that show
 
 I hold a Bachelor's degree in Software Engineering from Polzunov Altai State Technical University, which I completed part-time while working full-time as a frontend developer. I speak English at a professional level (C1), Russian natively, and Polish at an intermediate level (B1).
 
-## 📈 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
-
 ## 📫 Get in touch
 
 The best way to reach me is by email at stepanosadchii103@gmail.com or on [LinkedIn](https://www.linkedin.com/in/stepan-o-aa1541218/). I'm always happy to talk about frontend architecture, performance, or AI in developer workflows.
