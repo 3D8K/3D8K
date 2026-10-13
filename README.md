@@ -124,4 +124,4 @@ I hold a Bachelor's degree in Software Engineering from Polzunov Altai State Tec
 
 ## 📫 Get in touch
 
-The best way to reach me is by email at alex.novak@example.com or on [LinkedIn](https://www.linkedin.com/in/stepan-o-aa1541218/). I'm always happy to talk about frontend architecture, performance, or AI in developer workflows.
+The best way to reach me is by email at stepanosadchii103@gmail.com or on [LinkedIn](https://www.linkedin.com/in/stepan-o-aa1541218/). I'm always happy to talk about frontend architecture, performance, or AI in developer workflows.
