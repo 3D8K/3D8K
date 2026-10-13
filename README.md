@@ -28,21 +28,6 @@ At **CryptoRank**, a real-time crypto market data platform with millions of mont
 
 At **Libertex**, an online broker with a proprietary trading platform, I built core flows of the web trading terminal, including live watchlists, order tickets and interactive chart trading. I delivered regulatory changes for EU retail trading rules through config-driven logic per legal entity, rebuilt KYC document upload for unreliable mobile networks, and helped migrate the client area from AngularJS to React and TypeScript.
 
-## 📊 Impact in numbers
-
-| Area | Result |
-|---|---|
-| Organic search share after Next.js migration | 35% → 58% of total traffic |
-| Indexed pages | ~2k → 40k+ |
-| Coin page LCP (p75) | 4.1s → 1.6s |
-| Ad viewability | 48% → 71% |
-| Main-thread time per real-time tick | ~40ms → ~8ms |
-| Storefront editor LCP (p75) | 3.8s → 2.3s |
-| QA notes per ticket with AI assistant | ~30 min → under 2 min |
-| Unit test coverage with AI test generation | 38% → 82% |
-| Onboarding time for new engineers | 4 weeks → 2 weeks |
-| Mobile KYC completion | 54% → 67% |
-
 ## 🛠️ Tech stack
 
 **Languages**
